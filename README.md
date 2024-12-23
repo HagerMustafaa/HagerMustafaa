@@ -1,4 +1,4 @@
-## Hagermustafaa.io
+## Hagermustafaa
 # 🌌 Welcome to My GitHub!  
 
 ![Galaxy GIF](https://i.gifer.com/Cci.gif)
