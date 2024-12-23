@@ -1,7 +1,7 @@
 ## Hagermustafaa.io
 # 🌌 Welcome to My GitHub!  
 
-![Space GIF](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)  
+![Space GIF]([https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif))  
 
 ## 👋 About Me  
 Hi, I'm **Hager Mustafa**, a passionate **[Data Analyst]** 🚀. I thrive on building creative solutions and learning new technologies to tackle challenging problems. My work focuses on combining efficiency, scalability, and innovation to create impactful analysis projects.  
