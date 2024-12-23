@@ -16,22 +16,21 @@ Here are some of the technologies and tools I work with: ## 🚀 My Skills
 - ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)  
 - ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
 
-### **🐍Python Libraries**  
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn  
-- **Machine Learning**: Scikit-learn, TensorFlow, Keras  
-- **Others**: Requests, BeautifulSoup, Flask  
+### **🐍Python Libraries**  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)  
+![Seaborn](https://img.shields.io/badge/Seaborn-45b8ac?style=for-the-badge&logo=python&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
 
-### **📚Databases**  
-- ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
+### **📚Databases**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-### **🛠️Tools & Platforms**  
-- ![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoft-excel&logoColor=white)  
-- ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=power-bi&logoColor=black)  
-- ![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=jupyter&logoColor=white)  
-- ![Google Colab](https://img.shields.io/badge/-Google%20Colab-F9AB00?logo=google-colab&logoColor=black)  
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visualstudiocode&logoColor=white)  
-- ![VS Code](https://img.shields.io/badge/-VS%20Code-663399?logo=visualstudiocode&logoColor=white)  
-
+### **🛠️Tools & Platforms**  ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)  
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)  
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![VS Code Purple](https://img.shields.io/badge/VS_Code-663399?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 ---
 
 ## 📬 Connect with Me  
