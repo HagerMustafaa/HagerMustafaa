@@ -11,32 +11,14 @@ Hi, I'm **Hager Mustafa**, a passionate **[Data Analyst]** 🚀. I thrive on bui
 ## 🚀 💕My Skills  
 Here are some of the technologies and tools I work with: ## 🚀 My Skills  
 
-### **🎇Programming Languages**  
--![Python](https://img.icons8.com/color/96/000000/python.png)  
-![C#](https://img.icons8.com/color/96/000000/c-sharp-logo.png)  
-![Dart](https://img.icons8.com/color/96/000000/dart.png)   
+## 🚀 Tools & Libraries  
 
-### **🐍Python Libraries **
-![Pandas](https://img.icons8.com/external-tal-revivo-filled-tal-revivo/96/000000/external-pandas-an-open-source-python-library-for-data-manipulation-and-analysis-logo-filled-tal-revivo.png) 
-![NumPy](https://img.icons8.com/color/96/000000/numpy.png)                                 
-![Matplotlib](https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg)      
-
- 
-
-
-
-### **📚Databases**
-![MySQL](https://img.icons8.com/color/96/000000/mysql-logo.png)
-
-### **🦢🌷Tools & Platforms**  
- ![Excel](https://img.icons8.com/color/96/000000/microsoft-excel-2019.png)
- ![VS Code Blue](https://img.icons8.com/color/96/000000/visual-studio-code-2019.png) 
-
- ![Power BI](https://img.icons8.com/color/96/000000/power-bi.png) 
-
- ![Jupyter](https://img.icons8.com/fluency/96/000000/jupyter.png) 
-
-![Google Colab](https://img.icons8.com/color/96/000000/google-logo.png) 
+| **Programming Languages🦢**     | **Libraries🎀**                     | **Databases & Tools🌷**            |
+|--------------------------------|------------------------------------|-----------------------------------|
+| <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/>       | <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/48/000000/external-pandas-an-open-source-python-library-for-data-manipulation-and-analysis-logo-filled-tal-revivo.png" alt="Pandas" width="50"/> | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50"/> |
+| <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="50"/>     | <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50"/>         | <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="50"/> |
+| <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="50"/>           | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50"/> | <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50"/> |
+|                                | <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50"/> | <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="Jupyter Notebook" width="50"/> |
 ---
 
 ## 📬🕊️🎀Connect with Me  
