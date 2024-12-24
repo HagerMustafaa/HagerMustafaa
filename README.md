@@ -15,7 +15,7 @@ Here are some of the technologies and tools I work with: ## 🚀 My Skills
 
 | **Programming Languages🦢**     | **Libraries🎀**                     | **Databases & Tools🌷**            |
 |--------------------------------|------------------------------------|-----------------------------------|
-| <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/>       | https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg | <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50"/> |
+| <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="50"/>       | <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="50"/>| <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="50"/> |
 | <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" alt="C#" width="50"/>     | <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="NumPy" width="50"/>         | <img src="https://img.icons8.com/color/48/000000/microsoft-excel-2019.png" alt="Excel" width="50"/> |
 | <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" width="50"/>           | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="50"/> | <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="50"/> |
 |                                | <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" width="50"/> | <img src="https://img.icons8.com/fluency/48/000000/jupyter.png" alt="Jupyter Notebook" width="50"/> |
