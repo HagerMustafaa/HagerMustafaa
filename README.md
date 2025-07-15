@@ -32,22 +32,4 @@ Feel free to reach out or connect with me:
 ## 🌠 Fun Fact  
 > **"The universe is under no obligation to make sense to you."** - Neil deGrasse Tyson
 
----
-[Musician] --(Plays)--> [Musician_Instrument] <--(Plays)-- [Instrument]
-   | ID_number (PK)                        | Musician_ID (FK)      | Name (PK)
-   | Name                                  | Instrument_Name (FK)  | Musical_key
-   | Street
-   | City
-   | Phone_number
-
-[Album] --(Contains)--> [Song]
-   | Album_identifier (PK)    | Title (PK)
-   | Title (unique)           | Author
-   | Copyright_date           | Album_identifier (FK)
-   | Musician_ID (FK)
-
-[Song] --(Performs)--> [Song_Musician] <--(Performs)-- [Musician]
-   | Title (PK)              | Song_Title (FK)          | ID_number (PK)
-   | Author                  | Musician_ID (FK)
-   | Album_identifier (FK)
 
